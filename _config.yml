@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Petar Bevanda
+title: Velimir Todorovski
 
 # Short description of your site
 description: Personal Website
@@ -53,10 +53,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "pbevanda@outlook.com"
-  github: "bevanda"
-  linkedin: "petar-bevanda-5a4498120"
-  google-scholar: "https://scholar.google.com/citations?user=Hne4SYQAAAAJ&hl=en"
+  email: "vtodorovski@ucsd.edu"
+# github: "bevanda"
+  linkedin: "velimir-todorovski-bb5405169"
+  google-scholar: "https://scholar.google.com/citations?user=Ql2Z_IgAAAAJ&hl=en"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
