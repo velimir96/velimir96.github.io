@@ -12,7 +12,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ql2Z_I
 - **Newton Nonholonomic Source Seeking for Distance-Dependent Maps**\
   **Velimir Todorovski**, Miroslav Krstić (2024)\
   *IEEE Transactions on Automatic Control*, 70 (1), 510–517.\
-  <a href="https://doi.org/10.1109/TAC.2023.3321275" target="_blank">Paper</a>
+  <a href="https://arxiv.org/abs/2307.11923" target="_blank">Paper</a>
 
 - **Practical Prescribed-Time Seeking of a Repulsive Source by Unicycle Angular Velocity Tuning**\
   **Velimir Todorovski**, Miroslav Krstić (2023)\
@@ -22,7 +22,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ql2Z_I
 - **Learning-Based Prescribed-Time Safety for Control of Unknown Systems with Control Barrier Functions**\
   Tzu-Yuan Huang, Sihua Zhang, Xiaobing Dai, Alexandre Capone, **Velimir Todorovski**, Stefan Sosnowski, Sandra Hirche (2024)\
   *IEEE Control Systems Letters*, 8, 1817–1822.\
-  <a href="https://doi.org/10.1109/LCSYS.2024.3362258" target="_blank">Paper</a>
+  <a href="https://arxiv.org/abs/2403.08054" target="_blank">Paper</a>
 
 ---
 
@@ -31,12 +31,12 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ql2Z_I
 - **Prescribed-Time Seeking of a Repulsive Source by Angular Velocity Tuning**\
   **Velimir Todorovski**, Miroslav Krstić (2022)\
   *American Control Conference (ACC 2022)*, pp. 8–13. IEEE.\
-  <a href="https://doi.org/10.23919/ACC53348.2022.9867268" target="_blank">Paper</a>
+  <a href="https://ieeexplore.ieee.org/document/9867214/" target="_blank">Paper</a>
 
 - **Fault Detection for Lumped-Parameter LTI Systems Using Integral Transformations and Trajectory Planning Methods**\
   Ferdinand Fischer, **Velimir Todorovski**, Joachim Deutscher (2021)\
   *5th International Conference on Control and Fault-Tolerant Systems (SysTol 2021)*, pp. 79–84. IEEE.\
-  <a href="https://doi.org/10.1109/SysTol52913.2021.9598849" target="_blank">Paper</a>
+  <a href="https://ieeexplore.ieee.org/document/9595885/" target="_blank">Paper</a>
 
 ---
 
