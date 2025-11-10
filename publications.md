@@ -1,37 +1,66 @@
 ---
 layout: page
-title: Selected Publications
+title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=Hne4SYQAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?user=Ql2Z_IgAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
-- **Koopman Kernel Regression**\
-   **Petar Bevanda**, Max Beier, Armin Lederer, Stefan Sosnowski, Eyke Hüllermeier, Sandra Hirche (2023)\
-   *Advances in Neural Information Processing Systems*, 36, 16207–16221\
-   <a href="https://arxiv.org/abs/2305.16215" target="_blank">Paper</a>&nbsp;&nbsp;<a href="https://youtu.be/i656h3vbpz0?feature=shared" target="_blank">Talk</a>&nbsp;&nbsp;<a href="https://neurips.cc/virtual/2023/poster/72466" target="_blank">Slides/Poster/Video</a>
+---
 
-- **Koopman-Equivariant Gaussian Processes**\
-   **Petar Bevanda**, **Max Beier**, Alexandre Capone, Stefan Sosnowski, Sandra Hirche, Armin Lederer (2025)\
-   *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics*\
-  <a href="https://arxiv.org/abs/2502.06645" target="_blank">Paper</a>
+### 🧭 Journal Articles
 
-- **Nonparametric Control Koopman Operators**\
-   **Petar Bevanda**, Bas Driessen, Lucian Cristian Iacob, Stefan Sosnowski, Roland Toth, Sandra Hirche (2024)\
-   *arXiv preprint* arXiv:2405.07312.\
-     <a href="https://arxiv.org/abs/2405.07312" target="_blank">Paper</a>&nbsp;&nbsp;<a href="https://www.tu-ilmenau.de/fileadmin/Bereiche/MN/obc/CDC24_Bevanda.pdf" target="_blank">Slides</a>
+- **Newton Nonholonomic Source Seeking for Distance-Dependent Maps**\
+  **Velimir Todorovski**, Miroslav Krstić (2024)\
+  *IEEE Transactions on Automatic Control*, 70 (1), 510–517.\
+  <a href="https://doi.org/10.1109/TAC.2023.3321275" target="_blank">Paper</a>
 
-- **Kernel-Based Optimal Control: An Infinitesimal Generator Approach**\
-   **Petar Bevanda**, Nicolas Hosichen, Tobias Wittmann, Jan Brüdigam, Sandra Hirche, Boris Houska (2024)\
-   *To appear at 7th Annual Learning for Dynamics & Control Conference (L4DC 2025)*\
-       <a href="https://arxiv.org/abs/2412.01591" target="_blank">Paper</a>&nbsp;&nbsp;<a href="https://www.tu-ilmenau.de/fileadmin/Bereiche/MN/obc/CDC24_Bevanda.pdf#page=14" target="_blank">Slides</a>
+- **Practical Prescribed-Time Seeking of a Repulsive Source by Unicycle Angular Velocity Tuning**\
+  **Velimir Todorovski**, Miroslav Krstić (2023)\
+  *Automatica*, 154, 111069.\
+  <a href="https://doi.org/10.1016/j.automatica.2023.111069" target="_blank">Paper</a>
 
-- **Diffeomorphically Learning Stable Koopman Operators**\
-   **Petar Bevanda**, Max Beier, Sebastian Kerz, Armin Lederer, Stefan Sosnowski, Sandra Hirche (2022)\
-   *IEEE Control Systems Letters,* 6, 3427–3432.\
-    <a href="https://arxiv.org/abs/2112.04085" target="_blank">Paper</a>&nbsp;&nbsp;<a href="https://youtu.be/DhyVhRpj13Y?feature=shared" target="_blank">Talk</a>
+- **Learning-Based Prescribed-Time Safety for Control of Unknown Systems with Control Barrier Functions**\
+  Tzu-Yuan Huang, Sihua Zhang, Xiaobing Dai, Alexandre Capone, **Velimir Todorovski**, Stefan Sosnowski, Sandra Hirche (2024)\
+  *IEEE Control Systems Letters*, 8, 1817–1822.\
+  <a href="https://doi.org/10.1109/LCSYS.2024.3362258" target="_blank">Paper</a>
 
+---
 
-- **Gaussian Process-Based Representation Learning via Timeseries Symmetries**\
-   **Petar Bevanda**, Max Beier, Armin Lederer, Alexandre Capone, Stefan Sosnowski, Sandra Hirche (2024)\
-  *ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling*\
-    <a href="https://openreview.net/forum?id=9qDuVMAxK3" target="_blank">Paper</a>
+### 🎓 Conference Papers
+
+- **Prescribed-Time Seeking of a Repulsive Source by Angular Velocity Tuning**\
+  **Velimir Todorovski**, Miroslav Krstić (2022)\
+  *American Control Conference (ACC 2022)*, pp. 8–13. IEEE.\
+  <a href="https://doi.org/10.23919/ACC53348.2022.9867268" target="_blank">Paper</a>
+
+- **Fault Detection for Lumped-Parameter LTI Systems Using Integral Transformations and Trajectory Planning Methods**\
+  Ferdinand Fischer, **Velimir Todorovski**, Joachim Deutscher (2021)\
+  *5th International Conference on Control and Fault-Tolerant Systems (SysTol 2021)*, pp. 79–84. IEEE.\
+  <a href="https://doi.org/10.1109/SysTol52913.2021.9598849" target="_blank">Paper</a>
+
+---
+
+### 🧩 Preprints / Submitted
+
+- **Half-Global Deadbeat Parking for Dubins Vehicle**\
+  Miroslav Krstić, Kwang Hak Kim, **Velimir Todorovski** (2025)\
+  *arXiv preprint* arXiv:2509.25571.\
+  <a href="https://arxiv.org/abs/2509.25571" target="_blank">Paper</a>
+
+- **Modular Design of Strict Control Lyapunov Functions for Global Stabilization of the Unicycle in Polar Coordinates**\
+  **Velimir Todorovski**, Kwang Hak Kim, Miroslav Krstić (2025)\
+  *arXiv preprint* arXiv:2509.25575.\
+  <a href="https://arxiv.org/abs/2509.25575" target="_blank">Paper</a>
+
+- **Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization**\
+  Kwang Hak Kim, **Velimir Todorovski**, Miroslav Krstić (2025)\
+  *arXiv preprint* arXiv:2509.25563.\
+  <a href="https://arxiv.org/abs/2509.25563" target="_blank">Paper</a>
+
+- **Integrator Forwarding Design for Unicycles with Constant and Actuated Velocity in Polar Coordinates**\
+  Miroslav Krstić, **Velimir Todorovski**, Kwang Hak Kim, Alessandro Astolfi (2025)\
+  *arXiv preprint* arXiv:2509.25579.\
+  <a href="https://arxiv.org/abs/2509.25579" target="_blank">Paper</a>
+
+---
+
