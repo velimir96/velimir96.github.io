@@ -62,5 +62,19 @@ You can also browse my <a href="https://scholar.google.com/citations?user=Ql2Z_I
   *arXiv preprint* arXiv:2509.25579.\
   <a href="https://arxiv.org/abs/2509.25579" target="_blank">Paper</a>
 
----
+- **Nonholonomic Robot Parking by Feedback—Part I: Modular Strict CLF Designs**\
+  **Velimir Todorovski**, Kwang Hak Kim, Alessandro Astolfi, Miroslav Krstić (2025)\
+  *arXiv preprint* arXiv:2511.15119.\
+  <a href="https://arxiv.org/abs/2511.15119" target="_blank">Paper</a>
 
+- **Nonholonomic Robot Parking by Feedback—Part II: Nonmodular, Inverse Optimal, Adaptive, Prescribed/Fixed-Time and Safe Designs**\
+  Kwang Hak Kim, **Velimir Todorovski**, Miroslav Krstić (2025)\
+  *arXiv preprint* arXiv:2511.15219.\
+  <a href="https://arxiv.org/abs/2511.15219" target="_blank">Paper</a>
+
+- **Dubins Vehicle Stabilization: Deadbeat Parking and Asymptotic ‘Spinaway’**\
+  Miroslav Krstić, Kwang Hak Kim, **Velimir Todorovski** (2025)\
+  *submitted to Automatica*.\
+  *(no preprint link available)*
+
+---
